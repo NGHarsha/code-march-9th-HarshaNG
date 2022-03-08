@@ -18,3 +18,7 @@
 ### AddCar Component
    - Bootstrap Model
    - Form for adding car to the data
+### App Component
+   - Contains Navbar and CarList Components as children
+   - Also performs search operations and dispatches search request to redux.
+
