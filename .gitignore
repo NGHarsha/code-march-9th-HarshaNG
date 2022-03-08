@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+.vscode/*
 .pnp.js
 
 # testing
@@ -19,6 +20,5 @@
 .env.production.local
 
 npm-debug.log*
-/.vscode
 yarn-debug.log*
 yarn-error.log*
